@@ -25,5 +25,5 @@ if not present, and assigned:
   
 - Batch edit an absolute path and assign several genres:
   ```bash
-  batchmp3metadata "C:\Users\user\Music\My Album" -genre "Hip hop" Pop
+  batchmp3metadata "C:\Users\user\Music\My Album" -genre "Hip Hop"
   ```
